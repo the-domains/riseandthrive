@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The beginning:Lighting the flame'
-datePublished: '2016-04-06T04:01:23.990Z'
-dateModified: '2016-04-06T04:01:07.719Z'
+datePublished: '2016-04-06T04:10:44.954Z'
+dateModified: '2016-04-06T04:01:33.252Z'
 title: 'The beginning: Lighting the flame'
 author: []
 sourcePath: _posts/2016-04-06-the-beginning-lighting-the-flame.md
