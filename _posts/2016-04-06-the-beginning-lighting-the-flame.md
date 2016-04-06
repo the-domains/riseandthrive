@@ -1,13 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'The beginning:Lighting the flame'
-datePublished: '2016-04-06T04:11:21.187Z'
-dateModified: '2016-04-06T04:10:55.994Z'
+description: ''
+datePublished: '2016-04-06T06:25:04.585Z'
+dateModified: '2016-04-06T06:24:48.746Z'
 title: 'The beginning: Lighting the flame'
 author: []
 sourcePath: _posts/2016-04-06-the-beginning-lighting-the-flame.md
@@ -18,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: the-beginning-lighting-the-flame/index.html
 _type: Blurb
 
 ---
@@ -31,7 +32,7 @@ in the field of my energy. However a deepening of this energy needed to occur
 in order for the light of The Way to shine in my heart.
 
 A warm glow infused my soul the moment I
-lay eyes on one person. The moment was Saturday 22 February 2014, and it would
+lay eyes on you. The moment was Saturday 22 February 2014, and it would
 only be three months' after this time that I would come to understand the true
 meaning of living authentically.
 
