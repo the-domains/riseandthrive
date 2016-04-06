@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: The Hsin Hsin Ming
-datePublished: '2016-04-06T04:10:27.719Z'
-dateModified: '2016-04-06T04:10:13.585Z'
+datePublished: '2016-04-06T04:15:45.434Z'
+dateModified: '2016-04-06T04:15:33.431Z'
 title: 'The spark: One page. One book. One essence.'
 author: []
 sourcePath: _posts/2016-04-06-the-spark-one-page-one-book-one-essence.md
