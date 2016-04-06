@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-06T03:58:18.443Z'
-dateModified: '2016-04-06T03:58:17.668Z'
+datePublished: '2016-04-06T04:11:01.303Z'
+dateModified: '2016-04-06T04:00:34.381Z'
+title: Serendipity
+author: []
+sourcePath: _posts/2016-04-06-serendipity.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Serendipity
-author: []
-sourcePath: _posts/2016-04-06-serendipity.md
-published: true
-url: serendipity/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Serendipity
