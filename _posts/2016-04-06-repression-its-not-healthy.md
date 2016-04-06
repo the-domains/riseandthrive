@@ -1,24 +1,24 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-06T04:02:58.372Z'
-dateModified: '2016-04-06T04:02:57.657Z'
+description: "The repressed desires -\_"
+datePublished: '2016-04-06T06:31:09.050Z'
+dateModified: '2016-04-06T06:30:41.848Z'
 title: "Repression. It's not healthy."
+author: []
+sourcePath: _posts/2016-04-06-repression-its-not-healthy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-04-06-repression-its-not-healthy.md
-published: true
+url: repression-its-not-healthy/index.html
 _type: Blurb
 
 ---
