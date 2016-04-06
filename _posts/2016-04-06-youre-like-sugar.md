@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: 'Overeating two packets of Salted Caramel Zumbo Tim-Tams,'
-datePublished: '2016-04-06T04:11:09.249Z'
-dateModified: '2016-04-06T04:10:09.281Z'
+datePublished: '2016-04-06T06:30:17.216Z'
+dateModified: '2016-04-06T06:29:34.489Z'
 title: "You're like sugar. "
 author: []
 sourcePath: _posts/2016-04-06-youre-like-sugar.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: youre-like-sugar/index.html
 _type: Blurb
 
 ---
