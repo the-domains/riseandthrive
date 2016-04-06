@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The spark:\_One page. One book. One essence."
-datePublished: '2016-04-06T03:54:31.470Z'
-dateModified: '2016-04-06T03:54:30.744Z'
-title: ''
+datePublished: '2016-04-06T03:59:20.006Z'
+dateModified: '2016-04-06T03:59:06.036Z'
+title: 'The spark: One page. One book. One essence.'
 author: []
+sourcePath: _posts/2016-04-06-the-spark-one-page-one-book-one-essence.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-the-spark-one-page-one-book-one-essence.md
-published: true
 url: the-spark-one-page-one-book-one-essence/index.html
 _type: Article
 
 ---
 ****
 
-**The spark: One page. One book. One essence.**
+# The spark: One page. One book. One essence.
 
 **The Hsin Hsin Ming**
 
