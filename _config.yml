@@ -1,7 +1,7 @@
 name: riseandthrive
 favicon: null
-layout_spectrum: 0.6808540136553347
-typography_spectrum: 0.8451246225740761
+layout_spectrum: 1
+typography_spectrum: 0.69221
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7602440400514752
-  lightness: 0.3353152412455529
-  saturation: 0.8825294515118003
-  rhythmicContrast: 0.9744131164625287
+    - '#202020'
+    - '#cfcfcf'
+    - '#010101'
+    - '#9f9f9f'
+    - '#626262'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.625
+  rhythmicContrast: 0.75
 purpose: []
